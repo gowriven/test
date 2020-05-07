@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "HI"
-echo "test"
+echo "tes3t"
