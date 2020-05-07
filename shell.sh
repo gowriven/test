@@ -2,4 +2,4 @@
 echo "HI"
 echo "test1"
 echo "commit"
-echo ""
+echo "1"
